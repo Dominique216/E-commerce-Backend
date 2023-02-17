@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# UTA-bootcamp-challenge13
+# E-commerce-Backend
 ## Description 
 Starting with code given to us through our UT course, the goal of this challenge was to create the backend of an e-commerce site. This challenge used Express.js api routes and Sequelize to use information from a mySQL database.
 ## Table of Contents
